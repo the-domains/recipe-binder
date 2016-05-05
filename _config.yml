@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.1875
-  brandStrength: 0.6875
-  rhythmicContrast: 1
+  saturation: 0.7926065
+  brandStrength: 0.7662907
+  lightness: 0.3320802
   brandColors:
     - '#c5c4c2'
     - '#201911'
     - '#7a4813'
     - '#fefdff'
     - '#ba9348'
-  lightness: 0.75
+  rhythmicContrast: 0.2261905
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Recipe Binder
 favicon: null
+name: Recipe Binder
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3189223
-layout_spectrum: 0.2819549
+layout_spectrum: 0.7299499
