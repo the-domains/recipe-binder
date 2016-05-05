@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Recipe Binder]]></title>
         <description><![CDATA[Recipe Binder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/recipe-binder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 18:16:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 18:16:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/recipe-binder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rich, indulgent recipes for Indian goat curry and roast mutton]]></title>
+            <description><![CDATA[<article><h1>Rich, indulgent recipes for Indian goat curry and roast mutton</h1><p>Here in the UK, we are creatures of habit when it comes to meat. It's chicken, pork, lamb, beef; breasts, chops, sausages, roasts; week in, week out. And that's fine: they're versatile, easy to get hold of and, often, they're the ingredients we've grown up eating.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d8b211092b1e54b06e4755f83c9f330515ee977.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/lifeandstyle/2016/apr/28/indian-goat-curry-recipe-roast-mutton-romy-gill-cook-residency?platform=hootsuite</link>
+            <guid isPermaLink="false">a96c1ae5-76b2-4278-8de6-43a633b332bf</guid>
+            <pubDate>Thu, 05 May 2016 18:15:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chilli salt tofu recipe]]></title>
             <description><![CDATA[<article><h1>Chilli salt tofu recipe</h1><p>I know die-hard meat-eaters who turn weak at the knees for this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4059530e27637d80c119a81c7de43992e9cdbd67.jpg"></article>]]></description>
