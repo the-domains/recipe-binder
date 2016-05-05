@@ -1,8 +1,8 @@
 layout_spectrum: 0.5181704
+typography_spectrum: 0.3189223
 color:
   saturation: 0.8101504
+  brandStrength: 0.8872181
   lightness: 0.3402256
-  brandStrength: 0.331554
   rhythmicContrast: 0.8552632
-typography_spectrum: 0.3189223
 name: Recipe Binder
