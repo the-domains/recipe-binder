@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.lovefood.com/guide/recipes/47667/chilli-salt-tofu-recipe'
 inLanguage: null
 keywords: []
-description: I know die-hard meat-eaters who turn weak at the knees for this.
-datePublished: '2016-05-09T13:32:24.501Z'
-dateModified: '2016-05-09T13:31:52.373Z'
-author: []
+description: Chilli salt tofu
+datePublished: '2016-05-09T13:36:36.211Z'
+dateModified: '2016-05-09T13:36:13.612Z'
+author:
+  - name: ''
+    url: ''
 title: Chilli salt tofu recipe
 sourcePath: _posts/2016-05-05-chilli-salt-tofu-recipe.md
 authors: []
@@ -17,10 +18,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
-_type: MediaObject
+starred: true
+url: chilli-salt-tofu-recipe/index.html
+_type: Article
 
 ---
 # Chilli salt tofu recipe
 
-<article style=""><h1>Chilli salt tofu recipe</h1><p>I know die-hard meat-eaters who turn weak at the knees for this.</p><img src="http://www.lovefood.com/images/content/body/chillisalttofurs.jpg" /></article>
+<article style=""><h1>Chilli salt tofu</h1><p>Chilli salt tofu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4059530e27637d80c119a81c7de43992e9cdbd67.jpg" /></article>
