@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chilli salt tofu
-datePublished: '2016-05-09T13:36:36.211Z'
-dateModified: '2016-05-09T13:36:13.612Z'
+datePublished: '2016-05-09T13:39:21.366Z'
+dateModified: '2016-05-09T13:39:20.699Z'
 author:
   - name: ''
     url: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: chilli-salt-tofu-recipe/index.html
 _type: Article
 
